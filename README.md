@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m `@h0pler`
-- 🌱 I’m currently learning NestJS, DevOps and Cybersecurity. 
-- 📫 `me@h0pler.xyz`
-- 📫 [`Telegram`](https://t.me/kwj0952)
+- 🌱 I’m currently learning *NestJS*, *DevOps* and *Cybersecurity*. 
+- 📫 [**Email**](mailto:me@h0pler.xyz)
+- 📫 [**Telegram**](https://t.me/kwj0952)
 
 <!---
 totoro0952/totoro0952 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
