@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **h0pler/h0pler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m `@h0pler`
+- 🌱 I’m currently learning NestJS, DevOps and Cybersecurity. 
+- 📫 `me@h0pler.xyz`
+- 📫 [`Telegram`](https://t.me/kwj0952)
+
+<!---
+totoro0952/totoro0952 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
