@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m `@h0pler`
 - 🌱 I’m currently learning *NestJS*, *DevOps* and *Cybersecurity*. 
-- 📫 [**Email**](mailto:me@h0pler.xyz)
+- 📫 [**Email**](mailto:me@h0pler.dev)
 - 📫 [**Telegram**](https://t.me/kwj0952)
 - 💸 [**Donate** (Toss)](https://toss.me/totoro0952)
 
