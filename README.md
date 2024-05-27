@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m `@h0pler`
+- 👋 Hi, I’m `@waivey-dev`
 - 🌱 I’m currently learning *DevOps* and *Cybersecurity*. 
-- 📫 [**Email**](mailto:me@h0pler.dev)
+- 📫 [**Email**](mailto:me@waivey.dev)
 - 📫 [**Telegram**](https://t.me/kwj0952)
 - 💸 [**Donate** (Toss)](https://toss.me/totoro0952)
 
