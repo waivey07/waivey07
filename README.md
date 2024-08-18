@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**h0pler/h0pler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**waivey07/waivey07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m `@waivey07`
-- 🌱 I’m currently learning *DevOps* and *Cybersecurity*. 
+- 🌱 I’m currently learning *Cybersecurity*. 
 - 📫 [**Email**](mailto:me@waivey.dev)
 - 📫 [**Telegram**](https://t.me/kwj0952)
 - 💸 [**Donate** (Toss)](https://toss.me/totoro0952)
-
-<!---
-totoro0952/totoro0952 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
